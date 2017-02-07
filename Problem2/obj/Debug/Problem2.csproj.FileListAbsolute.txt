@@ -1,6 +1,0 @@
-C:\Users\hubinak\Documents\zaloha\C#\ProjectEuler\Problem2\bin\Debug\Problem2.exe.config
-C:\Users\hubinak\Documents\zaloha\C#\ProjectEuler\Problem2\bin\Debug\Problem2.exe
-C:\Users\hubinak\Documents\zaloha\C#\ProjectEuler\Problem2\bin\Debug\Problem2.pdb
-C:\Users\hubinak\Documents\zaloha\C#\ProjectEuler\Problem2\obj\Debug\Problem2.csprojResolveAssemblyReference.cache
-C:\Users\hubinak\Documents\zaloha\C#\ProjectEuler\Problem2\obj\Debug\Problem2.exe
-C:\Users\hubinak\Documents\zaloha\C#\ProjectEuler\Problem2\obj\Debug\Problem2.pdb

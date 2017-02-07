@@ -1,8 +1,0 @@
-C:\Users\hubinak\Documents\zaloha\C#\ProjectEuler\Problem9\bin\Release\Problem9.exe.config
-C:\Users\hubinak\Documents\zaloha\C#\ProjectEuler\Problem9\bin\Release\Problem9.exe
-C:\Users\hubinak\Documents\zaloha\C#\ProjectEuler\Problem9\bin\Release\Problem9.pdb
-C:\Users\hubinak\Documents\zaloha\C#\ProjectEuler\Problem9\obj\Release\Problem9.csprojResolveAssemblyReference.cache
-C:\Users\hubinak\Documents\zaloha\C#\ProjectEuler\Problem9\obj\Release\Problem9.exe
-C:\Users\hubinak\Documents\zaloha\C#\ProjectEuler\Problem9\obj\Release\Problem9.pdb
-C:\Users\hubinak\Documents\zaloha\C#\ProjectEuler\Problem9\bin\Release\ProjectEulerLib.dll
-C:\Users\hubinak\Documents\zaloha\C#\ProjectEuler\Problem9\bin\Release\ProjectEulerLib.pdb
