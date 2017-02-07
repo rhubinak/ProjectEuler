@@ -4,9 +4,3 @@ C:\Users\hubinak\Documents\zaloha\C#\ProjectEuler\Problem8\bin\Release\Problem8.
 C:\Users\hubinak\Documents\zaloha\C#\ProjectEuler\Problem8\obj\Release\Problem8.exe
 C:\Users\hubinak\Documents\zaloha\C#\ProjectEuler\Problem8\obj\Release\Problem8.pdb
 C:\Users\hubinak\Documents\zaloha\C#\ProjectEuler\Problem8\obj\Release\Problem8.csprojResolveAssemblyReference.cache
-C:\Users\rhubinak\Documents\zaloha\C#\ProjectEuler\Problem8\bin\Release\Problem8.exe.config
-C:\Users\rhubinak\Documents\zaloha\C#\ProjectEuler\Problem8\obj\Release\Problem8.exe
-C:\Users\rhubinak\Documents\zaloha\C#\ProjectEuler\Problem8\obj\Release\Problem8.pdb
-C:\Users\rhubinak\Documents\zaloha\C#\ProjectEuler\Problem8\bin\Release\Problem8.exe
-C:\Users\rhubinak\Documents\zaloha\C#\ProjectEuler\Problem8\bin\Release\Problem8.pdb
-C:\Users\rhubinak\Documents\zaloha\C#\ProjectEuler\Problem8\obj\Release\Problem8.csprojResolveAssemblyReference.cache

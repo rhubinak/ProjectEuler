@@ -10,9 +10,3 @@ C:\Users\hubinak\Documents\zaloha\C#\ProjectEuler\ProjectEulerLib\bin\Release\Pr
 C:\Users\hubinak\Documents\zaloha\C#\ProjectEuler\ProjectEulerLib\obj\Release\ProjectEulerLib.csprojResolveAssemblyReference.cache
 C:\Users\hubinak\Documents\zaloha\C#\ProjectEuler\ProjectEulerLib\obj\Release\ProjectEulerLib.dll
 C:\Users\hubinak\Documents\zaloha\C#\ProjectEuler\ProjectEulerLib\obj\Release\ProjectEulerLib.pdb
-C:\Users\rhubinak\Documents\zaloha\C#\ProjectEuler\ProjectEulerLib\bin\Release\ProjectEulerLib.dll.config
-C:\Users\rhubinak\Documents\zaloha\C#\ProjectEuler\ProjectEulerLib\bin\Release\ProjectEulerLib.dll
-C:\Users\rhubinak\Documents\zaloha\C#\ProjectEuler\ProjectEulerLib\bin\Release\ProjectEulerLib.pdb
-C:\Users\rhubinak\Documents\zaloha\C#\ProjectEuler\ProjectEulerLib\obj\Release\ProjectEulerLib.csprojResolveAssemblyReference.cache
-C:\Users\rhubinak\Documents\zaloha\C#\ProjectEuler\ProjectEulerLib\obj\Release\ProjectEulerLib.dll
-C:\Users\rhubinak\Documents\zaloha\C#\ProjectEuler\ProjectEulerLib\obj\Release\ProjectEulerLib.pdb

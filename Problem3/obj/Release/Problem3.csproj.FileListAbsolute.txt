@@ -6,11 +6,3 @@ C:\Users\hubinak\Documents\zaloha\C#\ProjectEuler\Problem3\obj\Release\Problem3.
 C:\Users\hubinak\Documents\zaloha\C#\ProjectEuler\Problem3\obj\Release\Problem3.csprojResolveAssemblyReference.cache
 C:\Users\hubinak\Documents\zaloha\C#\ProjectEuler\Problem3\bin\Release\ProjectEulerLib.dll
 C:\Users\hubinak\Documents\zaloha\C#\ProjectEuler\Problem3\bin\Release\ProjectEulerLib.pdb
-C:\Users\rhubinak\Documents\zaloha\C#\ProjectEuler\Problem3\bin\Release\Problem3.exe.config
-C:\Users\rhubinak\Documents\zaloha\C#\ProjectEuler\Problem3\bin\Release\Problem3.exe
-C:\Users\rhubinak\Documents\zaloha\C#\ProjectEuler\Problem3\bin\Release\Problem3.pdb
-C:\Users\rhubinak\Documents\zaloha\C#\ProjectEuler\Problem3\bin\Release\ProjectEulerLib.dll
-C:\Users\rhubinak\Documents\zaloha\C#\ProjectEuler\Problem3\bin\Release\ProjectEulerLib.pdb
-C:\Users\rhubinak\Documents\zaloha\C#\ProjectEuler\Problem3\obj\Release\Problem3.csprojResolveAssemblyReference.cache
-C:\Users\rhubinak\Documents\zaloha\C#\ProjectEuler\Problem3\obj\Release\Problem3.exe
-C:\Users\rhubinak\Documents\zaloha\C#\ProjectEuler\Problem3\obj\Release\Problem3.pdb

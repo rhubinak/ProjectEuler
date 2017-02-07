@@ -1,0 +1,12 @@
+C:\Users\hubinak\Documents\zaloha\C#\ProjectEuler\Project6\bin\Release\Project6.exe.config
+C:\Users\hubinak\Documents\zaloha\C#\ProjectEuler\Project6\bin\Release\Project6.exe
+C:\Users\hubinak\Documents\zaloha\C#\ProjectEuler\Project6\bin\Release\Project6.pdb
+C:\Users\hubinak\Documents\zaloha\C#\ProjectEuler\Project6\obj\Release\Problem6.csprojResolveAssemblyReference.cache
+C:\Users\hubinak\Documents\zaloha\C#\ProjectEuler\Project6\obj\Release\Project6.exe
+C:\Users\hubinak\Documents\zaloha\C#\ProjectEuler\Project6\obj\Release\Project6.pdb
+C:\Users\rhubinak\Documents\zaloha\C#\ProjectEuler\Project6\bin\Release\Problem6.exe.config
+C:\Users\rhubinak\Documents\zaloha\C#\ProjectEuler\Project6\bin\Release\Problem6.exe
+C:\Users\rhubinak\Documents\zaloha\C#\ProjectEuler\Project6\bin\Release\Problem6.pdb
+C:\Users\rhubinak\Documents\zaloha\C#\ProjectEuler\Project6\obj\Release\Problem6.csprojResolveAssemblyReference.cache
+C:\Users\rhubinak\Documents\zaloha\C#\ProjectEuler\Project6\obj\Release\Problem6.exe
+C:\Users\rhubinak\Documents\zaloha\C#\ProjectEuler\Project6\obj\Release\Problem6.pdb
