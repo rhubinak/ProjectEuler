@@ -1,0 +1,6 @@
+C:\Users\rhubinak\Documents\zaloha\C#\ProjectEuler\Problem14\bin\Release\Problem14.exe.config
+C:\Users\rhubinak\Documents\zaloha\C#\ProjectEuler\Problem14\bin\Release\Problem14.exe
+C:\Users\rhubinak\Documents\zaloha\C#\ProjectEuler\Problem14\bin\Release\Problem14.pdb
+C:\Users\rhubinak\Documents\zaloha\C#\ProjectEuler\Problem14\obj\Release\Problem14.csprojResolveAssemblyReference.cache
+C:\Users\rhubinak\Documents\zaloha\C#\ProjectEuler\Problem14\obj\Release\Problem14.exe
+C:\Users\rhubinak\Documents\zaloha\C#\ProjectEuler\Problem14\obj\Release\Problem14.pdb

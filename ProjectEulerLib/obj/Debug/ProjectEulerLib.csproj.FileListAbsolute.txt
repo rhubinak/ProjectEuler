@@ -1,0 +1,6 @@
+C:\Users\hubinak\Documents\zaloha\C#\ProjectEuler\ProjectEuler\bin\Debug\ProjectEuler.dll.config
+C:\Users\hubinak\Documents\zaloha\C#\ProjectEuler\ProjectEuler\bin\Debug\ProjectEuler.dll
+C:\Users\hubinak\Documents\zaloha\C#\ProjectEuler\ProjectEuler\bin\Debug\ProjectEuler.pdb
+C:\Users\hubinak\Documents\zaloha\C#\ProjectEuler\ProjectEuler\obj\Debug\ProjectEulerLib.csprojResolveAssemblyReference.cache
+C:\Users\hubinak\Documents\zaloha\C#\ProjectEuler\ProjectEuler\obj\Debug\ProjectEuler.dll
+C:\Users\hubinak\Documents\zaloha\C#\ProjectEuler\ProjectEuler\obj\Debug\ProjectEuler.pdb
